@@ -1,422 +1,302 @@
 module.exports = [
-    {
-      "favoriteFruit": "banana",
-      "registered": "Friday, March 24, 2017 2:06 PM",
-      "email": "logan.hudson@rotodyne.tv",
-      "company": "ROTODYNE",
-      "name": {
-        "last": "Hudson",
-        "first": "Logan"
-      },
-      "eyeColor": "brown",
-      "age": 36,
-      "isActive": false,
-      "id": 0
+  {
+    "registered": "Friday, June 2, 2017 11:10 PM",
+    "email": "monique.benton@undefined.tv",
+    "name": {
+      "last": "Benton",
+      "first": "Monique"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Friday, February 3, 2017 4:37 AM",
-      "email": "bertha.flynn@twiggery.biz",
-      "company": "TWIGGERY",
-      "name": {
-        "last": "Flynn",
-        "first": "Bertha"
-      },
-      "eyeColor": "green",
-      "age": 21,
-      "isActive": false,
-      "id": 1
+    "age": 35,
+    "id": 0
+  },
+  {
+    "registered": "Monday, May 9, 2016 9:22 AM",
+    "email": "terri.beck@undefined.biz",
+    "name": {
+      "last": "Beck",
+      "first": "Terri"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Tuesday, March 15, 2016 8:37 AM",
-      "email": "carpenter.morrison@stralum.com",
-      "company": "STRALUM",
-      "name": {
-        "last": "Morrison",
-        "first": "Carpenter"
-      },
-      "eyeColor": "green",
-      "age": 8,
-      "isActive": false,
-      "id": 2
+    "age": 9,
+    "id": 1
+  },
+  {
+    "registered": "Saturday, July 8, 2017 10:38 AM",
+    "email": "rosetta.workman@undefined.name",
+    "name": {
+      "last": "Workman",
+      "first": "Rosetta"
     },
-    {
-      "favoriteFruit": "banana",
-      "registered": "Friday, May 16, 2014 11:34 AM",
-      "email": "quinn.parks@netplax.org",
-      "company": "NETPLAX",
-      "name": {
-        "last": "Parks",
-        "first": "Quinn"
-      },
-      "eyeColor": "blue",
-      "age": 17,
-      "isActive": false,
-      "id": 3
+    "age": 21,
+    "id": 2
+  },
+  {
+    "registered": "Saturday, November 1, 2014 4:12 PM",
+    "email": "patton.hewitt@undefined.org",
+    "name": {
+      "last": "Hewitt",
+      "first": "Patton"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Sunday, October 9, 2016 9:24 PM",
-      "email": "olivia.fowler@futurity.ca",
-      "company": "FUTURITY",
-      "name": {
-        "last": "Fowler",
-        "first": "Olivia"
-      },
-      "eyeColor": "green",
-      "age": 35,
-      "isActive": false,
-      "id": 4
+    "age": 34,
+    "id": 3
+  },
+  {
+    "registered": "Tuesday, May 30, 2017 6:38 AM",
+    "email": "lowe.miller@undefined.co.uk",
+    "name": {
+      "last": "Miller",
+      "first": "Lowe"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Friday, April 17, 2015 1:03 AM",
-      "email": "duffy.le@comvene.co.uk",
-      "company": "COMVENE",
-      "name": {
-        "last": "Le",
-        "first": "Duffy"
-      },
-      "eyeColor": "brown",
-      "age": 35,
-      "isActive": true,
-      "id": 5
+    "age": 18,
+    "id": 4
+  },
+  {
+    "registered": "Monday, August 18, 2014 4:30 PM",
+    "email": "frost.spence@undefined.ca",
+    "name": {
+      "last": "Spence",
+      "first": "Frost"
     },
-    {
-      "favoriteFruit": "banana",
-      "registered": "Sunday, November 19, 2017 9:40 AM",
-      "email": "collins.alston@extro.net",
-      "company": "EXTRO",
-      "name": {
-        "last": "Alston",
-        "first": "Collins"
-      },
-      "eyeColor": "blue",
-      "age": 32,
-      "isActive": true,
-      "id": 6
+    "age": 36,
+    "id": 5
+  },
+  {
+    "registered": "Wednesday, June 22, 2016 5:09 PM",
+    "email": "sexton.payne@undefined.io",
+    "name": {
+      "last": "Payne",
+      "first": "Sexton"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Monday, July 11, 2016 11:44 AM",
-      "email": "ross.reeves@pathways.io",
-      "company": "PATHWAYS",
-      "name": {
-        "last": "Reeves",
-        "first": "Ross"
-      },
-      "eyeColor": "green",
-      "age": 35,
-      "isActive": true,
-      "id": 7
+    "age": 20,
+    "id": 6
+  },
+  {
+    "registered": "Tuesday, June 24, 2014 7:20 PM",
+    "email": "garner.bryant@undefined.me",
+    "name": {
+      "last": "Bryant",
+      "first": "Garner"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Thursday, September 28, 2017 6:35 AM",
-      "email": "calderon.beard@cedward.name",
-      "company": "CEDWARD",
-      "name": {
-        "last": "Beard",
-        "first": "Calderon"
-      },
-      "eyeColor": "green",
-      "age": 28,
-      "isActive": true,
-      "id": 8
+    "age": 15,
+    "id": 7
+  },
+  {
+    "registered": "Wednesday, July 13, 2016 12:54 PM",
+    "email": "margarita.ford@undefined.biz",
+    "name": {
+      "last": "Ford",
+      "first": "Margarita"
     },
-    {
-      "favoriteFruit": "banana",
-      "registered": "Sunday, May 31, 2015 3:36 AM",
-      "email": "gilda.boyd@exerta.biz",
-      "company": "EXERTA",
-      "name": {
-        "last": "Boyd",
-        "first": "Gilda"
-      },
-      "eyeColor": "green",
-      "age": 23,
-      "isActive": false,
-      "id": 9
+    "age": 11,
+    "id": 8
+  },
+  {
+    "registered": "Wednesday, June 18, 2014 6:40 PM",
+    "email": "blake.coleman@undefined.us",
+    "name": {
+      "last": "Coleman",
+      "first": "Blake"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Monday, August 10, 2015 5:58 AM",
-      "email": "little.wilcox@repetwire.me",
-      "company": "REPETWIRE",
-      "name": {
-        "last": "Wilcox",
-        "first": "Little"
-      },
-      "eyeColor": "brown",
-      "age": 10,
-      "isActive": false,
-      "id": 10
+    "age": 12,
+    "id": 9
+  },
+  {
+    "registered": "Saturday, January 24, 2015 7:14 PM",
+    "email": "janice.brennan@undefined.com",
+    "name": {
+      "last": "Brennan",
+      "first": "Janice"
     },
-    {
-      "favoriteFruit": "banana",
-      "registered": "Friday, April 7, 2017 6:21 AM",
-      "email": "kerri.mack@bunga.info",
-      "company": "BUNGA",
-      "name": {
-        "last": "Mack",
-        "first": "Kerri"
-      },
-      "eyeColor": "blue",
-      "age": 8,
-      "isActive": true,
-      "id": 11
+    "age": 28,
+    "id": 10
+  },
+  {
+    "registered": "Monday, February 1, 2016 12:54 PM",
+    "email": "bradford.flynn@undefined.net",
+    "name": {
+      "last": "Flynn",
+      "first": "Bradford"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Thursday, January 30, 2014 12:34 AM",
-      "email": "burns.shepard@talae.tv",
-      "company": "TALAE",
-      "name": {
-        "last": "Shepard",
-        "first": "Burns"
-      },
-      "eyeColor": "brown",
-      "age": 28,
-      "isActive": true,
-      "id": 12
+    "age": 26,
+    "id": 11
+  },
+  {
+    "registered": "Thursday, July 16, 2015 4:03 PM",
+    "email": "page.durham@undefined.tv",
+    "name": {
+      "last": "Durham",
+      "first": "Page"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Friday, October 6, 2017 5:13 PM",
-      "email": "roberta.osborn@isotronic.biz",
-      "company": "ISOTRONIC",
-      "name": {
-        "last": "Osborn",
-        "first": "Roberta"
-      },
-      "eyeColor": "green",
-      "age": 33,
-      "isActive": true,
-      "id": 13
+    "age": 9,
+    "id": 12
+  },
+  {
+    "registered": "Monday, July 17, 2017 6:33 PM",
+    "email": "gay.chandler@undefined.biz",
+    "name": {
+      "last": "Chandler",
+      "first": "Gay"
     },
-    {
-      "favoriteFruit": "banana",
-      "registered": "Monday, August 11, 2014 2:55 AM",
-      "email": "esther.love@qiao.com",
-      "company": "QIAO",
-      "name": {
-        "last": "Love",
-        "first": "Esther"
-      },
-      "eyeColor": "brown",
-      "age": 12,
-      "isActive": true,
-      "id": 14
+    "age": 33,
+    "id": 13
+  },
+  {
+    "registered": "Friday, January 17, 2014 10:02 AM",
+    "email": "rosalind.osborn@undefined.name",
+    "name": {
+      "last": "Osborn",
+      "first": "Rosalind"
     },
-    {
-      "favoriteFruit": "banana",
-      "registered": "Friday, October 3, 2014 9:45 AM",
-      "email": "garrett.sweeney@geofarm.org",
-      "company": "GEOFARM",
-      "name": {
-        "last": "Sweeney",
-        "first": "Garrett"
-      },
-      "eyeColor": "green",
-      "age": 39,
-      "isActive": true,
-      "id": 15
+    "age": 31,
+    "id": 14
+  },
+  {
+    "registered": "Thursday, March 23, 2017 2:57 PM",
+    "email": "esmeralda.riddle@undefined.org",
+    "name": {
+      "last": "Riddle",
+      "first": "Esmeralda"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Monday, February 20, 2017 5:25 PM",
-      "email": "bauer.lynch@pearlessa.ca",
-      "company": "PEARLESSA",
-      "name": {
-        "last": "Lynch",
-        "first": "Bauer"
-      },
-      "eyeColor": "brown",
-      "age": 37,
-      "isActive": false,
-      "id": 16
+    "age": 37,
+    "id": 15
+  },
+  {
+    "registered": "Thursday, June 8, 2017 1:07 PM",
+    "email": "mcknight.carter@undefined.co.uk",
+    "name": {
+      "last": "Carter",
+      "first": "Mcknight"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Sunday, October 8, 2017 3:13 PM",
-      "email": "nielsen.pitts@quantalia.co.uk",
-      "company": "QUANTALIA",
-      "name": {
-        "last": "Pitts",
-        "first": "Nielsen"
-      },
-      "eyeColor": "green",
-      "age": 20,
-      "isActive": true,
-      "id": 17
+    "age": 25,
+    "id": 16
+  },
+  {
+    "registered": "Monday, July 7, 2014 8:51 AM",
+    "email": "elvia.harvey@undefined.ca",
+    "name": {
+      "last": "Harvey",
+      "first": "Elvia"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Thursday, November 2, 2017 2:53 PM",
-      "email": "susanna.rhodes@translink.net",
-      "company": "TRANSLINK",
-      "name": {
-        "last": "Rhodes",
-        "first": "Susanna"
-      },
-      "eyeColor": "green",
-      "age": 31,
-      "isActive": false,
-      "id": 18
+    "age": 13,
+    "id": 17
+  },
+  {
+    "registered": "Wednesday, April 13, 2016 2:00 PM",
+    "email": "harris.potter@undefined.io",
+    "name": {
+      "last": "Potter",
+      "first": "Harris"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Sunday, July 27, 2014 11:41 PM",
-      "email": "amber.mercer@fangold.io",
-      "company": "FANGOLD",
-      "name": {
-        "last": "Mercer",
-        "first": "Amber"
-      },
-      "eyeColor": "brown",
-      "age": 22,
-      "isActive": false,
-      "id": 19
+    "age": 29,
+    "id": 18
+  },
+  {
+    "registered": "Wednesday, September 21, 2016 10:48 PM",
+    "email": "mathis.vincent@undefined.me",
+    "name": {
+      "last": "Vincent",
+      "first": "Mathis"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Tuesday, December 9, 2014 11:27 AM",
-      "email": "tillman.lopez@assitia.name",
-      "company": "ASSITIA",
-      "name": {
-        "last": "Lopez",
-        "first": "Tillman"
-      },
-      "eyeColor": "blue",
-      "age": 7,
-      "isActive": false,
-      "id": 20
+    "age": 12,
+    "id": 19
+  },
+  {
+    "registered": "Sunday, March 8, 2015 5:53 PM",
+    "email": "gates.mcclure@undefined.biz",
+    "name": {
+      "last": "Mcclure",
+      "first": "Gates"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Wednesday, July 20, 2016 8:25 AM",
-      "email": "jensen.navarro@zilodyne.biz",
-      "company": "ZILODYNE",
-      "name": {
-        "last": "Navarro",
-        "first": "Jensen"
-      },
-      "eyeColor": "blue",
-      "age": 23,
-      "isActive": true,
-      "id": 21
+    "age": 7,
+    "id": 20
+  },
+  {
+    "registered": "Friday, April 4, 2014 11:51 PM",
+    "email": "mcconnell.leach@undefined.us",
+    "name": {
+      "last": "Leach",
+      "first": "Mcconnell"
     },
-    {
-      "favoriteFruit": "banana",
-      "registered": "Tuesday, May 5, 2015 4:25 AM",
-      "email": "fisher.mercado@magmina.me",
-      "company": "MAGMINA",
-      "name": {
-        "last": "Mercado",
-        "first": "Fisher"
-      },
-      "eyeColor": "brown",
-      "age": 27,
-      "isActive": false,
-      "id": 22
+    "age": 12,
+    "id": 21
+  },
+  {
+    "registered": "Tuesday, December 13, 2016 12:19 PM",
+    "email": "jacquelyn.gonzales@undefined.com",
+    "name": {
+      "last": "Gonzales",
+      "first": "Jacquelyn"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Sunday, March 27, 2016 5:00 PM",
-      "email": "eula.douglas@quilk.info",
-      "company": "QUILK",
-      "name": {
-        "last": "Douglas",
-        "first": "Eula"
-      },
-      "eyeColor": "brown",
-      "age": 31,
-      "isActive": false,
-      "id": 23
+    "age": 14,
+    "id": 22
+  },
+  {
+    "registered": "Thursday, June 19, 2014 8:17 PM",
+    "email": "adela.snider@undefined.net",
+    "name": {
+      "last": "Snider",
+      "first": "Adela"
     },
-    {
-      "favoriteFruit": "apple",
-      "registered": "Thursday, July 16, 2015 8:08 PM",
-      "email": "schmidt.robles@ginkle.tv",
-      "company": "GINKLE",
-      "name": {
-        "last": "Robles",
-        "first": "Schmidt"
-      },
-      "eyeColor": "green",
-      "age": 37,
-      "isActive": true,
-      "id": 24
+    "age": 35,
+    "id": 23
+  },
+  {
+    "registered": "Tuesday, October 6, 2015 6:40 PM",
+    "email": "ines.cooke@undefined.tv",
+    "name": {
+      "last": "Cooke",
+      "first": "Ines"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Tuesday, January 5, 2016 7:16 AM",
-      "email": "madeleine.ford@portica.biz",
-      "company": "PORTICA",
-      "name": {
-        "last": "Ford",
-        "first": "Madeleine"
-      },
-      "eyeColor": "green",
-      "age": 9,
-      "isActive": false,
-      "id": 25
+    "age": 36,
+    "id": 24
+  },
+  {
+    "registered": "Tuesday, August 25, 2015 10:43 PM",
+    "email": "bridges.turner@undefined.biz",
+    "name": {
+      "last": "Turner",
+      "first": "Bridges"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Tuesday, December 2, 2014 7:39 PM",
-      "email": "doyle.mcmahon@applideck.com",
-      "company": "APPLIDECK",
-      "name": {
-        "last": "Mcmahon",
-        "first": "Doyle"
-      },
-      "eyeColor": "brown",
-      "age": 24,
-      "isActive": true,
-      "id": 26
+    "age": 32,
+    "id": 25
+  },
+  {
+    "registered": "Thursday, May 29, 2014 6:16 PM",
+    "email": "jasmine.preston@undefined.name",
+    "name": {
+      "last": "Preston",
+      "first": "Jasmine"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Monday, August 8, 2016 11:11 PM",
-      "email": "kaitlin.ewing@besto.org",
-      "company": "BESTO",
-      "name": {
-        "last": "Ewing",
-        "first": "Kaitlin"
-      },
-      "eyeColor": "blue",
-      "age": 22,
-      "isActive": false,
-      "id": 27
+    "age": 23,
+    "id": 26
+  },
+  {
+    "registered": "Saturday, December 19, 2015 1:34 AM",
+    "email": "haley.downs@undefined.org",
+    "name": {
+      "last": "Downs",
+      "first": "Haley"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Monday, September 29, 2014 3:11 AM",
-      "email": "summers.suarez@empirica.ca",
-      "company": "EMPIRICA",
-      "name": {
-        "last": "Suarez",
-        "first": "Summers"
-      },
-      "eyeColor": "blue",
-      "age": 38,
-      "isActive": false,
-      "id": 28
+    "age": 25,
+    "id": 27
+  },
+  {
+    "registered": "Sunday, October 25, 2015 1:16 AM",
+    "email": "melissa.moore@undefined.co.uk",
+    "name": {
+      "last": "Moore",
+      "first": "Melissa"
     },
-    {
-      "favoriteFruit": "strawberry",
-      "registered": "Monday, July 18, 2016 2:20 AM",
-      "email": "cain.howard@gaptec.co.uk",
-      "company": "GAPTEC",
-      "name": {
-        "last": "Howard",
-        "first": "Cain"
-      },
-      "eyeColor": "green",
-      "age": 40,
-      "isActive": false,
-      "id": 29
-    }
-  ];
+    "age": 22,
+    "id": 28
+  },
+  {
+    "registered": "Wednesday, May 28, 2014 1:45 PM",
+    "email": "johanna.burns@undefined.ca",
+    "name": {
+      "last": "Burns",
+      "first": "Johanna"
+    },
+    "age": 7,
+    "id": 29
+  }
+];
